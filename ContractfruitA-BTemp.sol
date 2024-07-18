@@ -6,9 +6,9 @@ pragma solidity 0.8.19;
 contract temperature {
     function checkTemp(uint256 temp) public pure returns (string memory) {
         if (temp < 30) {
-            return /*Type your stament here in double quotes*/;
+            return "Do delivery to B and pay to A";
         } else {
-            return /*Type your stament here in double quotes*/;
+            return "Do delivery to B and pay to A";
         }
     }
 }
