@@ -1,3 +1,4 @@
+//okay main purpose of creating a gas limit is to remove the infinite loop possibility
 //SPDX-License-Identifier: GPL-3.0
 
 pragma solidity 0.8.19;
